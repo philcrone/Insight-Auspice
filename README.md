@@ -1,6 +1,6 @@
 # Auspice
 
-Included here are data and code for my Insight Data Science fellows project, Auspice. Auspice is a web app that predicts whether individual Twitter users will respond positively, negatively, or neutrally to a promoted tweet. You can use Auspice [here](https://auspiceapp.com/).
+Included here are data and code for my Insight Data Science fellows project, Auspice. Auspice is a web app that predicts whether individual Twitter users will respond positively, negatively, or neutrally to a promoted tweet. You can use Auspice [here](http://www.auspiceapp.com/).
 
 The Tweets directory contains the data set that was used to build the model behind Auspice. Models.ipynb is a Jupyter notebook that compares various models for predicting the sentiment of a Twitter user's response to a promoted tweet based on a set of approximately 300 features. The models considered include logistic regression, a random forest classifier, and a gradient boosting classifier.
 
